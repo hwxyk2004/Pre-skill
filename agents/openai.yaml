@@ -1,0 +1,4 @@
+interface:
+  display_name: "组会汇报备稿"
+  short_description: "从实验目录挑选图表、核对数据出处，整理可直接交给 PPT 助手的逐页方案"
+  default_prompt: "用 $lab-meeting-brief 从我指定的实验文件夹提炼组会素材，整理汇报主线和逐页方案，交给我的 PPT 制作助手。"
